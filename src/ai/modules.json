@@ -1,0 +1,27 @@
+{
+    "python_basics": {
+        "description": "Covers Python syntax, data types, loops, conditionals, and functions.",
+        "who_needs_it": "Anyone unfamiliar with Python fundamentals, or who struggles with simple programs or debugging basic syntax errors.",
+        "skills_gained": "Ability to write small Python scripts, use loops, and define functions."
+    },
+    "data_structures": {
+        "description": "Teaches lists, dictionaries, tuples, sets, and basic algorithms.",
+        "who_needs_it": "Learners who can code in Python but do not know how to store, search, or manipulate collections efficiently.",
+        "skills_gained": "Understanding of choosing data structures and implementing common algorithms."
+    },
+    "sql_database": {
+        "description": "Covers relational database design and SQL queries.",
+        "who_needs_it": "Anyone who hasn’t used SQL, JOINs, or database schema design before.",
+        "skills_gained": "Ability to design simple databases and write SELECT/INSERT/UPDATE queries."
+    },
+    "machine_learning": {
+        "description": "Introduces core ML concepts with scikit-learn: regression, classification, model evaluation.",
+        "who_needs_it": "Learners new to predictive modeling or unsure how to train and test models.",
+        "skills_gained": "Ability to build and evaluate basic ML models in Python."
+    },
+    "deep_learning": {
+        "description": "Explores neural networks with PyTorch/TensorFlow and training pipelines.",
+        "who_needs_it": "Learners without prior experience in neural network architectures or GPU training.",
+        "skills_gained": "Ability to design and train basic neural networks."
+    }
+}
